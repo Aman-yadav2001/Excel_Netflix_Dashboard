@@ -37,7 +37,7 @@ To use this Excel dashboard, ensure you have:
 ## ⚙️ Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[YourGitHubUsername]/NetflixAnalysis.git
+   git clone https://github.com/Aman-yadav2001/Excel_Netflix_Dashboard.git
    ```
    Use GitHub Desktop or VS Code for a simpler cloning process if preferred.
 
